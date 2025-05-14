@@ -28,7 +28,6 @@
 
 ## 🎮 Demo
 
-![System Demo](https://your-demo-gif-url-here.gif)
 
 Watch our system in action as it:
 1. Receives a customer email inquiring about order tracking and refund policies
@@ -49,7 +48,6 @@ Watch our system in action as it:
 
 ## 🏗 System Architecture
 
-![System Architecture Diagram](https://your-architecture-diagram-url-here.png)
 
 The system follows a modular architecture with these key components:
 
@@ -101,7 +99,6 @@ cp .env.example .env
 
 ## ⚙️ Workflow Configuration
 
-![Workflow Configuration](https://your-workflow-configuration-gif-here.gif)
 
 The system uses N8N workflows that need to be imported and configured:
 
