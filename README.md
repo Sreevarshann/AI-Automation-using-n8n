@@ -279,12 +279,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-<p align="center">Made with ❤️ by Your Name</p>
-
-<p align="center">
-  <a href="https://twitter.com/your-twitter">Twitter</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Website</a>
-</p>
