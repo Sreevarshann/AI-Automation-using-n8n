@@ -1,7 +1,5 @@
 # AI-Powered Customer Support Automation
 
-![Project Banner](https://your-banner-image-url-here.gif)
-
 > An intelligent email automation system that uses AI to provide instant, accurate responses to customer support inquiries.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
